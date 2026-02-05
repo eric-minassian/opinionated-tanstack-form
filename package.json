@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@cloudscape-design/components": "^3.0.1193",
+    "@cloudscape-design/global-styles": "^1.0.50",
+    "@tanstack/react-form": "^1.28.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
